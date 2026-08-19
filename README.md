@@ -15,7 +15,8 @@ A production-ready Python pipeline built using **NumPy** and **Pandas** to inges
 4. **Business Intelligence Aggregation:** Summarized system revenue performance across demographic clusters using multi-tiered index matrices.
 
 ## 🚀 How To Run
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1. Clone the repository: `git clone https://github.com/NarainKishore/Numpy-Pandas-Data-Cleaning-Pipeline
+.git`
 2. Open the directory in VS Code.
 3. Ensure packages are installed: `pip install numpy pandas notebook`
 4. Execute `pipeline.ipynb` to watch the tracking engine transform raw data to insights.
